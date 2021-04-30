@@ -5,16 +5,12 @@ import './App.css';
 import Header from './Header';
 import Prodcts from './Prodcts'
 
-
-
-
 function App() {
+
     return (
-        <h1><Header />
-            <Prodcts />
-        </h1>
-
-
+        <div><Header />
+             <Prodcts/>
+        </div>
     );
 
 }
