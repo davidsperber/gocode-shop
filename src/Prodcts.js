@@ -2,7 +2,7 @@ import P1 from './P1';
 // import './App.css';
 // import Header from './Header';
 
-function Prodcts() {
+function Prodcts1() {
 
     return     (
     <section className="products">
@@ -15,4 +15,4 @@ function Prodcts() {
     </section>);
 
 }
-export default Prodcts;
+export default Prodcts1;
